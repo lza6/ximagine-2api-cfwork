@@ -3,7 +3,6 @@
 <div align="center">
 
 ![版本](https://img.shields.io/badge/版本-2.2.0_Chimera_Synthesis-FF6B35?style=for-the-badge)
-![协议](https://img.shields.io/badge/协议-Apache_2.0-00BFFF?style=for-the-badge)
 ![状态](https://img.shields.io/badge/状态-生产就绪-32CD32?style=for-the-badge)
 
 **🎯 一个纯粹的文生视频代理 Worker，让 AI 视频生成变得简单可靠！**
